@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me send a mail to omosowoeni.aderonke@lmu.edu.ng
-- 😄 Pronouns:
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love singing
 
 <!---
